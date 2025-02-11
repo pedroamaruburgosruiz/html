@@ -1,0 +1,21 @@
+body {
+    font-family: cursive; /* Familia de fuentes */
+    font-size: 20px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #000000; /* El color del fondo de la página web */
+    color: #989595; /* El color del texto*/ 
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 44px;
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration-color: #000000;
+    
+}
+.img_1{
+    width: 120px;
+    border: solid rgb(123, 0, 0) 3pxpx;
+}
+a{
+    color: #43ef21
+}
